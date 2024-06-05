@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cybersectroll
+- This repo is not to create state-of-the-art tools to defeat the latest EDR/AV
+- It is to repurpose/improve/tweak existing techniques/tools for troll purposes (;
